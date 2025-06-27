@@ -246,16 +246,16 @@
     "fields": [
       {
         "component": "richtext",
-        "valueType": "string",
-        "name": "quoteText",
-        "label": "Quote Text",
-        "value": ""
+        "name": "quote",
+        "value": "",
+        "label": "Quote",
+        "valueType": "string"
       },
       {
         "component": "text",
         "valueType": "string",
-        "name": "quoteAuthor",
-        "label": "Quote Author",
+        "name": "author",
+        "label": "Author",
         "value": ""
       }
     ]
