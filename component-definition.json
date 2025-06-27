@@ -156,6 +156,20 @@
               }
             }
           }
+        },
+        {
+          "title": "Quote",
+          "id": "quote",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/quote/v1/quote",
+                "template": {
+                  "model": "quote"
+                }
+              }
+            }
+          }
         }
       ]
     }
